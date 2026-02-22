@@ -17,7 +17,7 @@ const myroutes = createBrowserRouter([{
     element: <Search />,
   },
   {
-    path: "mybookings",
+    path: "my-bookings",
     element: <MyBookings />,
   },
   {
